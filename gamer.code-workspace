@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../AI MUSIC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gamer"
+	}
+}
